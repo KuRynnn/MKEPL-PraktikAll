@@ -26,6 +26,27 @@ public class Kubus extends Bentuk implements BangunRuang{
     public double hitungLuasPermukaan() {
         return 6*this.sisi*this.sisi;
     }
+    public double hitungLuasPermukaan1() {
+        return 6*this.sisi*this.sisi;
+    }
+    public double hitungLuasPermukaan2() {
+        return 6*this.sisi*this.sisi;
+    }
+    public double hitungLuasPermukaan3() {
+        return 6*this.sisi*this.sisi;
+    }
+    public double hitungLuasPermukaan4() {
+        return 6*this.sisi*this.sisi;
+    }
+    public double hitungLuasPermukaan5() {
+        return 6*this.sisi*this.sisi;
+    }
+    public double hitungLuasPermukaan6() {
+        return 6*this.sisi*this.sisi;
+    }
+    public double hitungLuasPermukaan7() {
+        return 6*this.sisi*this.sisi;
+    }
 
     @Override
     public double hitungVolume() {
