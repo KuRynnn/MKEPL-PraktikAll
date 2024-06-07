@@ -13,6 +13,7 @@ import static org.junit.jupiter.api.Assertions.*;
  */
 public class KubusTest {
     
+    //Ini test berhasil lho
     @Test
     public void testKubus() {
         Kubus kubus = new Kubus(5, "Kubus Contoh");
