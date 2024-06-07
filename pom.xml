@@ -4,6 +4,7 @@
     <groupId>com.mycompany</groupId>
     <artifactId>bangundatarbangunruangfull</artifactId>
     <version>1.0</version>
+    <!-- Version Still 1.0 -->
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
